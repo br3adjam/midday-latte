@@ -3,7 +3,7 @@
 - homepage image
 - 
 
-Credits: \n
+Credits: <br>
 catpuccino
 https://github.com/catppuccin/discord
 
